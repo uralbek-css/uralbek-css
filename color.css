@@ -3,6 +3,6 @@ html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 /* Color CSS */
 tr {
-    margin: 5px;
+    margin: 15px;
 }
 .ub-abbey{background-color:#4C4F56}
