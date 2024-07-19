@@ -12,7 +12,9 @@ div.menyu{position:fixed;top:48.7px;left:0;padding:2px 12px;background-color:#55
     position:fixed!important;
     z-index:1;
     overflow:auto;
-    width:200;
+    width:200px;
+    height:100%;
+    background-color:;
 }
 
 
