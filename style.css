@@ -18,7 +18,10 @@ div.scollmenu a{display:inline-block;color:#fff;font-size:14px;text-align:center
 div.scollmenu a:hover{background-color:#aaa}
 
 /* Left Right */
-#oldingi{float:left!important;border-right:0 50px 50px 0;}
+#oldingi{float:left!important;border-right:0 50px 50px 0;
+    padding:2px 16px;
+    bac
+}
 #keyingi{
     
 }
