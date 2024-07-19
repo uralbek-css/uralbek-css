@@ -20,5 +20,5 @@ div.scollmenu a:hover{background-color:#aaa}
 /* Left Right */
 #left{
     float:left!important;
-    bordr
+    border-right:0 50px 50p;
 }
