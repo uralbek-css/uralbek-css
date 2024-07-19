@@ -18,7 +18,9 @@ div.menyu{position:fixed;top:48.7px;left:0;padding:2px 12px;background-color:#55
     padding:2px 16px;
     background-color:#fff;
     text-align:left;
-    border:now;
+    border:none;
+    white-space:normal;
+    
 }
 
 
