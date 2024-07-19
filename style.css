@@ -20,5 +20,6 @@ div.scollmenu a:hover{background-color:#aaa}
 /* Left Right */
 #oldingi{float:left!important;border-right:0 50px 50px 0;padding:2px 16px;background-color:#0095B6;color:#fff}
 #keyingi{
-    flo
+    float:right!important;
+    border-radius: ;
 }
