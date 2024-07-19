@@ -9,6 +9,9 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 /* Menyu */
 div.menyu{position:fixed;top:48.7px;left:0;padding:2px 12px;background-color:#555;color:#fff;font-size:14px}
 #mySidebar{
+    float:none;
+    white-space:normal;
+    
     position:fixed!important;
     z-index:1;
     overflow:auto;
@@ -19,7 +22,7 @@ div.menyu{position:fixed;top:48.7px;left:0;padding:2px 12px;background-color:#55
     background-color:#fff;
     text-align:left;
     border:none;
-    white-space:normal;
+    
     
 }
 
