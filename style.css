@@ -9,5 +9,5 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     font-family:"Oswald";
     font-size:26px;
     color:#0095B6;
-    text-shadow:0.5px 0.7px ;
+    text-shadow:0.5px 0.7px #000;
 }
