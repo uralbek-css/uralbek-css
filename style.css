@@ -8,11 +8,7 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 #logotip{font-family:"Oswald";font-size:26px;color:#0095B6;text-shadow:0.5px 0.7px #000}
 /* Menyu */
 #mySidebar{display:none;width:220px}
-#close{
-    float:right!important;
-    background-color:red;
-    color:white;
-}
+#close{float:right!important;background-color:red;color:white}
 div.menyu{position:fixed;top:48.7px;left:0;padding:2px 12px;background-color:#555;color:#fff;font-size:14px}
 
 /* Scollmenu */
