@@ -18,7 +18,4 @@ div.scollmenu a{display:inline-block;color:#fff;font-size:14px;text-align:center
 div.scollmenu a:hover{background-color:#aaa}
 
 /* Left Right */
-#left{
-    float:left!important;
-    border-right:0 50px 50p;
-}
+#left{float:left!important;border-right:0 50px 50px 0;}
