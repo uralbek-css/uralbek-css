@@ -20,7 +20,11 @@ a{text-decoration:none}
     user-select: none: ;
 }
 
-#logotip 
+#logotip {
+    font-size: 26px;
+    font-family: "Oswald";
+    
+}
 /*
 
 
