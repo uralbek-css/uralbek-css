@@ -12,6 +12,7 @@ a{text-decoration:none}
 }
 
 #header {
+    margin-left: 3px;
     -webkit-user-select: none;
     -ms-user-select: none;
     user-select: none: ;
