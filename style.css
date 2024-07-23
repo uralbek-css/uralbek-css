@@ -5,7 +5,10 @@ a{text-decoration:none}
 #top {
     position: fixed;
     width: 100%;
-    z-index: ;
+    z-index: 1;
+    top: 0;
+    background-color: #fff;
+    
 }
 
 /*
