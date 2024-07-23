@@ -12,9 +12,9 @@ a{text-decoration:none}
 }
 #header {
     padding-top: 5px;
-    paddb
+    padding-bottom: 5px;
     padding-left: 18px;
-    
+    -webkit-user-select
 }
 
 /*
