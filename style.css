@@ -12,15 +12,15 @@ a{text-decoration:none}
 }
 
 #header {
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-left: 18px;
     -webkit-user-select: none;
     -ms-user-select: none;
     user-select: none: ;
 }
 
 #logotip {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 18px;
     font-size: 26px;
     font-family: "Oswald";
     float: left;
