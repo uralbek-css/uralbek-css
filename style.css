@@ -3,12 +3,7 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 body{background:#fff}
 a{text-decoration:none}
 #top{position:fixed;width:100%;z-index:1;top:0;background-color:#fff;box-shadow:0 4px 4px 0 rgba(0,0,0,0.12),0 4px 4px 0 rgba(0,0,0,0.20)}
-
-#header{margin-left: 3px;
-    -webkit-user-select: none;
-    -ms-user-select: none;
-    user-select: none:
-}
+#header{margin-left:3px;-webkit-user-select:none;-ms-user-select:none;user-select:none:}
 
 #logotip {
     padding-top: 5px;
