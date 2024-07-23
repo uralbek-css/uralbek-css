@@ -14,12 +14,16 @@ a{text-decoration:none}
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 18px;
-    -webkit-user-select
+    -webkit-user-select: none;
+    -ms-user-select
 }
 
 /*
 
-#header{padding-left:18px;padding-top:5px;padding-bottom:8px;-webkit-user-select:none;-ms-user-select:none;user-select:none}
+#header{padding-left:18px;padding-top:5px;padding-bottom:8px;
+-webkit-user-select:none;
+-ms-user-select:none;
+user-select:none}
 
 */
 #logotip{font-family:"Oswald";float:left!important;font-size:26px;color:#0095B6;text-shadow:0.5px 0.7px #000}
