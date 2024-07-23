@@ -15,7 +15,8 @@ a{text-decoration:none}
     padding-bottom: 5px;
     padding-left: 18px;
     -webkit-user-select: none;
-    -ms-user-select
+    -ms-user-select: none;
+    user-select: none;
 }
 
 /*
