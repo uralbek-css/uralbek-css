@@ -9,3 +9,6 @@ a{text-decoration:none}
 #oldingi{float:left}
 #keyingi{float:right}
 #oldingi,#keyingi{padding:2px 14px;background:#0095B6;color:#fff;font-size:12px}
+#versiya {
+    color: #f;
+}
