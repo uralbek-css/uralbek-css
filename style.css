@@ -8,5 +8,6 @@ a{text-decoration:none}
 
 #oldingi {
     float: left;
-    padding: 2px ;
+    padding: 2px 12px;
+    background: #0095B6;
 }
