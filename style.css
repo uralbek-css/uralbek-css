@@ -6,20 +6,12 @@ a{text-decoration:none}
 #header{margin-left:3px;-webkit-user-select:none;-ms-user-select:none;user-select:none}
 #logotip{padding-top:5px;padding-bottom:4px;padding-left:14px;font-size:24px;font-family:"Oswald";float:left;color:#0095B6;text-shadow:0.5px 0.7px #000}
 
-#oldingi {
-    float: left;
-    padding: 2px 16px;
-    background: #0095B6;
-    color: #fff;
-    font-size: 12px;
-}
-#keyingi {
-    float: right;
-    padding: 2px 16px;
-    background: #0095B6;
-    color: #fff;
-    font-size: 12px;
+#oldingi{float:left}
+#keyingi{float:right;
 }
 #oldingi,#keyingi{
-    
+    padding: 2px 16px;
+    background: #0095B6;
+    color: #fff;
+    font-size: 12px;
 }
