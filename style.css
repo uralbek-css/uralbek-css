@@ -13,13 +13,14 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 3px;
-    font-family: ;
+    font-family: "Oswald";
 }
 #menu {
     text-decoration: none;
     font-size: 26px;
     color: #02A4D3;
     font-weight: bold;
+    font-family: "Oswald";
 }
 #logotip {
     color: #02A4D3;
