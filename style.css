@@ -29,5 +29,7 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 #sidebar {
     width: 200px;
     height: 100%;
-    
+    position: fixed!important;
+    z-index: 1;
+    overflow: a;
 }
