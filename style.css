@@ -27,7 +27,7 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     font-weight: bold;
 }
 #close {
-    flo
+    float: right!important;
     margin-top: 170px;
     padding: 4px 8px;
     background: red;
