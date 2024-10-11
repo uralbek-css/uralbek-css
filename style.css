@@ -29,6 +29,7 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 #close {
     float: right!important;
     margin-top: 70px;
+    margin-right: 30px;
     padding: 4px 8px;
     background: red;
     font-size: 28px;
