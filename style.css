@@ -38,6 +38,7 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     background: #282A45;
 }
 #soat {
+    margin-left: 30px;
     font-size: 14px;
     color: #fff;
 }
