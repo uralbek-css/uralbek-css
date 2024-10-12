@@ -34,4 +34,6 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     background: red;
     font-size: 18px;
 }
-#
+#biocolor {
+    background: #02A4D3;
+}
