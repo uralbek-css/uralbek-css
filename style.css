@@ -39,7 +39,7 @@ a.w3-bar-item {
 }
 #lang {
     float: right!important;
-    padding-top: 2px;
+    margin-top: 8px;
     padding-right: 22px;
     font-size: 26px;
     color: #02A4D3;
