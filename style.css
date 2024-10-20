@@ -11,7 +11,6 @@ a.w3-bar-item {
     border: 1px solid #0095B6;
 }
 #top {
-    position: fixed;
     width: 100%;
     z-index: 1;
     top: 0;
