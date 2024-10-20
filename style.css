@@ -44,7 +44,6 @@ a.bar-item {
     padding-right: 22px;
     font-size: 26px;
     color: #02A4D3;
-    cursor: pointer;
     -webkit-user-select: none;
     -ms-user-select: none;
     user-select: none;
