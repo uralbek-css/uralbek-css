@@ -28,6 +28,8 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 }
 #lang {
     float: right!important;
+    padding-right: 14px;
+    font-size: 20px;
 }
 #close {
     float: right!important;
