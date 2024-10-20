@@ -4,6 +4,10 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     text-decoration: none;
     padding: 4px 18px;
 }
+.w3-dropdown-content {
+    top: 32px;
+    rig
+}
 #top {
     position: fixed;
     width: 100%;
