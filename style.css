@@ -26,6 +26,10 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     font-family: "Oswald";
     font-weight: bold;
 }
+#lang {
+    float: right!important;
+    
+}
 #close {
     float: right!important;
     margin-right: 20px;
