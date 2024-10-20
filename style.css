@@ -12,8 +12,6 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     padding-top: 5.5px;
     padding-left: 22px;
     padding-bottom: 5px;
-    position: relative;
-    display: inline-block;
 }
 #menu {
     text-decoration: none;
@@ -35,9 +33,6 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     font-size: 26px;
     color: #02A4D3;
     cursor: pointer;
-}
-#langopen {
-    
 }
 #close {
     float: right!important;
