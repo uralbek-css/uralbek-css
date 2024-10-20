@@ -5,8 +5,8 @@ a.w3-bar-item {
     padding: 4px 18px;
 }
 .w3-dropdown-content {
-    top: 40px;
-    right: 8px;
+    margin-top: 22px;
+    ma
     color: #02A4D3;
     border: 1px solid #0095B6;
 }
