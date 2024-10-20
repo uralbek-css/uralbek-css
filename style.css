@@ -3,6 +3,7 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 .w3-bar-item {
     text-decoration: none;
     padding: 4px 18px;
+    border: 1px solid #02A4D3;
 }
 .w3-dropdown-content {
     top: 32px;
