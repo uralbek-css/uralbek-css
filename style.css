@@ -21,12 +21,12 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     padding-left: 16px;
     font-size: 24.5px;
 }
-#lang {
+.fa-language {
     float: right!important;
     padding-right: 14px;
     font-size: 20px;
 }
-#menu,#logotip,#lang {
+.fa-language,#menu,#logotip {
     color: #02A4D3;
     font-family: "Oswald";
     font-weight: bold;
