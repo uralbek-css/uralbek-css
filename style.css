@@ -1,6 +1,6 @@
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
-.w3-bar-item {
+a.w3-bar-item {
     text-decoration: none;
     padding: 4px 18px;
     border: 1px solid #0095B6;
