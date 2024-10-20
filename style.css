@@ -1,6 +1,7 @@
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
-a.w3-bar-item {
+a.bar-item {
+    display: block;
     text-decoration: none;
     padding: 2px 18px;
 }
