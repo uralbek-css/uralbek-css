@@ -25,8 +25,11 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     float: right!important;
     padding-right: 14px;
     font-size: 20px;
+    color: #02A4D3;
+    font-family: "Oswald";
+    font-weight: bold;
 }
-.fa-language,#menu,#logotip {
+#menu,#logotip {
     color: #02A4D3;
     font-family: "Oswald";
     font-weight: bold;
