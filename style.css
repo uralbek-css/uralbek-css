@@ -36,6 +36,9 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     color: #02A4D3;
     cursor: pointer;
 }
+#langopen {
+    
+}
 #close {
     float: right!important;
     margin-right: 20px;
