@@ -22,7 +22,6 @@ a.w3-bar-item {
 #header {
     padding-top: 5.5px;
     padding-left: 22px;
-    padding-right: 22px;
     padding-bottom: 5px;
 }
 #menu {
@@ -41,6 +40,7 @@ a.w3-bar-item {
 #lang {
     float: right!important;
     margin-top: 8px;
+    padding-right: 22px;
     font-size: 26px;
     color: #02A4D3;
     cursor: pointer;
