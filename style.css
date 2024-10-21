@@ -62,6 +62,7 @@ a#lang:hover {
     background: #282A45;
 }
 #soat {
+    top: 30px;
     margin-left: 20px;
     font-size: 16px;
     color: #fff;
