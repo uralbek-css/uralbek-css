@@ -68,8 +68,8 @@ a#lang:hover {
     color: #fff;
 }
 
-body {
-  background-image: url("gradient_bg.png");
+#savol {
+  background-image: url("savol.png");
   background-repeat: repeat-x;
 }
 
