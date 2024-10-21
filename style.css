@@ -69,13 +69,13 @@ a#lang:hover {
 }
 
 div.savol {
-  background-image: url("savol.png");
+  background-image: url("https://support-uralbek.netlify.app/savol.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 150px 150px;
 }
 div.javob {
-    background-image: url("javob.png");
+    background-image: url("https://support-uralbek.netlify.app/javob.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 250px 150px;
