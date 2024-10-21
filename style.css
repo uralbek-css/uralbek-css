@@ -86,3 +86,6 @@ img {
     -ms-user-select: none;
     user-select: none;
 }
+#img_footer{
+    background: 002c55;
+}
