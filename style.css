@@ -68,12 +68,13 @@ a#lang:hover {
     color: #fff;
 }
 
-#savol {
+div.savol {
   background-image: url("savol.png");
   background-repeat: no-repeat;
-  
+  background-attachment: fixed;
+  background-position: 150px 150px;
 }
-#javob {
+div.javob {
     background-image: url("javob.png");
   background-repeat: no-repeat;
 }
