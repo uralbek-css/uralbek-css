@@ -1,10 +1,5 @@
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
-a.bar-item {
-    display: block;
-    text-decoration: none;
-    padding: 2px 18px;
-}
 .w3-dropdown-content {
     margin-top: 16px;
     margin-right: 2px;
