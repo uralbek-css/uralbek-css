@@ -70,12 +70,12 @@ a#lang:hover {
 
 #savol {
   background-image: url("savol.png");
-  background-repeat: repeat-x;
+  background-repeat: no-repeat;
   
 }
 #javob {
     background-image: url("javob.png");
-  background-repeat: repeat-x;
+  background-repeat: no-repeat;
 }
 
 img {
