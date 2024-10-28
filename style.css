@@ -76,10 +76,10 @@ div.savol {
   background-position: 150px 50px;
 }
 div.javob {
-    background-image: url("https://support-uralbek.netlify.app/javob.png");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: 250px 50px;
+  background-image: url("https://support-uralbek.netlify.app/javob.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 250px 50px;
 }
 
 img {
