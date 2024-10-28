@@ -1,6 +1,7 @@
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 .w3-dropdown-content {
+    text-decoration: none;
     margin-top: 16px;
     margin-right: 2px;
     color: #02A4D3;
